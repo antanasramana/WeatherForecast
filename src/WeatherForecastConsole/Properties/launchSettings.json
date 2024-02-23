@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WeatherForecastConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "--cities Vilnius"
+    }
+  }
+}
